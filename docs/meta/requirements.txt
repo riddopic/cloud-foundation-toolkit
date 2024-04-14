@@ -1,3 +1,4 @@
 Jinja2==2.11.3
 PyYAML==5.4
 requests==2.23.0
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
