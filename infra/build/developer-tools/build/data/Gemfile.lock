@@ -582,7 +582,7 @@ PLATFORMS
 DEPENDENCIES
   kitchen-terraform (~> 5.8)!
   kubeclient (~> 4.9)!
-  nokogiri (~> 1.13)!
+  nokogiri (~> 1.13, >= 1.13.6)!
   rest-client (~> 2.0)!
 
 BUNDLED WITH
